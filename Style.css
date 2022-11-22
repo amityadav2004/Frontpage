@@ -1,0 +1,24 @@
+.logo{
+background:#263544;
+
+}
+div{
+	height:65px;
+	width:200px;
+}
+	
+.nav_terms{
+color:white;	
+background:#263544;
+height:800px;
+width:200px;
+
+
+}
+.nav_terms:hover{
+	
+}
+ul{
+list-style-type:none;
+}
+
