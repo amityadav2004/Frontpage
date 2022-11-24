@@ -2,23 +2,134 @@
 background:#263544;
 
 }
+body{
+	margin:0px;
+}
+
 div{
-	height:65px;
+	height:53px;
 	width:200px;
 }
 	
-.nav_terms{
+.nav{
 color:white;	
 background:#263544;
 height:800px;
 width:200px;
-
-
+overflow:auto;
 }
-.nav_terms:hover{
-	
-}
-ul{
+
+ul{ 
 list-style-type:none;
 }
+
+.fa-house{
+	color:#6089FF;
+	
+}
+.fa-user{
+	color:green;
+	
+}
+.fa-file{
+	color:blue;
+
+}
+.fa-chart-simple{
+	color:orange;
+	
+}
+.fa-user{
+	color:yellow;
+	
+}
+.fa-building{
+	color:#3E8FE7;
+	
+}
+.fa-calculator{
+	color:#EFA7D2;
+	
+}
+.fa-squarespace{
+	color:#14D663;
+	
+}
+.fa-id-card{
+	color:red;
+	
+}
+.fa-indian-rupee-sign{
+	color:#25E2E5;
+	
+}
+
+.fa-ticket{
+	color:#EAF01E;
+	
+}
+
+.fa-list{
+	color:#0E89B0;
+}
+.fa-bars{
+	color:#0EB020;
+	
+}
+.nav_menu{
+color:white	;
+padding:10px;
+
+}
+
+.menu_navigation{
+	padding:20px;
+}
+
+.menu_projects{
+	padding:20px;
+}
+.menu_publication{
+	padding:20px;
+}
+
+.menu_leads{
+	padding:20px;
+}
+
+.menu_users{
+	padding:20px;
+}
+
+.menu_business{
+	padding:20px;
+}
+
+.menu_calculations{
+	padding:20px;
+}
+
+.menu_area{
+	padding:20px;
+}
+.menu_banners{
+	padding:20px;
+}
+
+.menu_transactions{
+	padding:20px;
+}
+
+.menu_offers{
+	padding:20px;
+}
+
+.menu_publishing{
+	padding:20px;	
+}
+
+.menu_reportings{
+	padding:20px;	
+}
+
 
