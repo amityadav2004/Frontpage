@@ -4,132 +4,194 @@ background:#263544;
 }
 body{
 	margin:0px;
+	
+	
 }
 
+
 div{
-	height:53px;
+	height:60.3px;
 	width:200px;
+	z-index:-1;
+	
+
 }
+
+
 	
 .nav{
 color:white;	
 background:#263544;
 height:800px;
 width:200px;
-overflow:auto;
+
 }
+
+.menu_bar{
+	position:fixed;
+	width:100%;
+	z-index:300;
+	top:0;
+	height:100px;
+	margin-left:200px;
+	padding:20px;
+	
+	}
+
+.image{	
+	margin:5px 1024px ;
+	border-radius:50%;
+	box-shadow:0px 1px 1px 2px;
+}
+
+.globe{
+margin-left:580px;
+margin-top:3px;
+
+	
+}	
+
 
 ul{ 
 list-style-type:none;
 }
 
-.fa-house{
+.fa-hou{
 	color:#6089FF;
 	
 }
-.fa-user{
+.fa-use{
 	color:green;
 	
 }
-.fa-file{
+.fa-fil{
 	color:blue;
 
 }
-.fa-chart-simple{
+.fa-chart-sim{
 	color:orange;
 	
 }
-.fa-user{
+.fa-use{
 	color:yellow;
 	
 }
-.fa-building{
+.fa-bui{
 	color:#3E8FE7;
 	
 }
-.fa-calculator{
+.fa-cal{
 	color:#EFA7D2;
 	
 }
-.fa-squarespace{
+.fa-squ{
 	color:#14D663;
 	
 }
-.fa-id-card{
+.fa-id-car{
 	color:red;
 	
 }
-.fa-indian-rupee-sign{
+.fa-indian-rupee-sig{
 	color:#25E2E5;
 	
 }
 
-.fa-ticket{
+.fa-tic{
 	color:#EAF01E;
 	
 }
 
-.fa-list{
+.fa-lis{
 	color:#0E89B0;
 }
-.fa-bars{
+.fa-bar{
 	color:#0EB020;
 	
 }
 .nav_menu{
 color:white	;
-padding:10px;
+padding:12px;
 
 }
 
 .menu_navigation{
 	padding:20px;
+	font-family:Mangal;
+	font-size:12px;
 }
 
 .menu_projects{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 .menu_publication{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	color:#F9F9F9;
+	}
 
 .menu_leads{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_users{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_business{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_calculations{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_area{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 .menu_banners{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_transactions{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_offers{
 	padding:20px;
-}
+	font-family:Mangal;
+	font-size:12px;
+	}
 
 .menu_publishing{
 	padding:20px;	
+	font-family:Mangal;
+	font-size:12px;
 }
 
 .menu_reportings{
 	padding:20px;	
+	font-family:Mangal;
+	font-size:12px;
 }
+
+
 
 
